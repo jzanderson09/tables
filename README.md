@@ -1,4 +1,6 @@
 # [Structuring Planet Data (MDN)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
+### [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-tables)
+### [Github](https://github.com/jzanderson09/tables)
 
 ### **Starting point**
 
